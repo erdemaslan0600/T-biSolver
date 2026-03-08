@@ -1,2 +1,2 @@
-# T-biSolver
+# TübiSolver
 TübiSolver
